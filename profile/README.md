@@ -1,4 +1,6 @@
-Plabayo was co-founded in 2021 by Elizabeth C. Gonzales Belsuzarri and Glen Henri J. De Cauwsemaecker,
+[Plabayo](https://plabayo.tech/) was co-founded in 2021
+by [Elizabeth C. Gonzales Belsuzarri](https://www.elizadc.me/)
+and [Glen Henri J. De Cauwsemaecker](https://www.glendc.com/),
 as a Free and Open Source Software development and consultancy studio.
 
 We are located in Ghent, Belgium and are available with events on premise within Belgium.
