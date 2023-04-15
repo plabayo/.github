@@ -9,5 +9,5 @@ Remotely we are open to any location and timezone.
 Education, Privacy and transparency is at the core of our mission.
 We take our craft serious and work on the fringes of playfulness.
 
-If you like or work and would like to donate to us, you can do so at <https://github.com/sponsors/plabayo>.
+If you like our work and would like to donate to us, you can do so at <https://github.com/sponsors/plabayo>.
 Part of the donations we receive we reuse for sponsoring back into projects we believe in and want to support.
